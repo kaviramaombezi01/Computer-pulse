@@ -1,0 +1,32 @@
+﻿====================================================
+           COMPUTER PULSE - HARDWARE & NETWORK LOG   
+====================================================
+Timestamp          : 2026-10-04 12:49:17
+Active Processes   : 255 running processes
+CPU Utilization    : 17% load
+----------------------------------------------------
+Top 3 Memory-Consuming Processes:
+
+Name               RAM_MB
+----               ------
+Memory Compression 888.16
+ProtonVPN.Client   421.27
+explorer           347.16
+
+
+
+----------------------------------------------------
+Disk Storage Breakdown:
+
+DeviceID FreeGB TotalGB
+-------- ------ -------
+C:        67.32  133.43
+G:       341.45   341.8
+
+
+
+----------------------------------------------------
+Network Diagnostics:
+Active IPv4 Address: 10.219.232.143
+Internet Latency   : Host Unreachable (Target: 8.8.8.8)
+====================================================
